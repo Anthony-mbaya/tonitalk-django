@@ -1,0 +1,15 @@
+{
+  "name": "tonitalk",
+  "version": "1.0.0",
+  "description": "Once user puts a room name it takes user to a unique url fro that chat room\r # Features\r -> if its a new room you need to create the troom and give it a room name\r -> if its an existing room you can join the room withpt creating",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
